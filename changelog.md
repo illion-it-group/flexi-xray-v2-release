@@ -1,3 +1,9 @@
+## v2.2.1
+- Fixed doctor first name last name order
+- Fixed detach patient button hover text
+
+---
+
 ## v2.2.0
 - Fixed build dependencies
 - Fixed service communication (`XRayService`)
